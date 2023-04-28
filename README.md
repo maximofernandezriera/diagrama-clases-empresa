@@ -1,6 +1,6 @@
 # DIAGRAMAS DE CLASE UML. EMPRESA
 
-Una empresa necesita almacenar información sobre sus empleados y clientes, teniendo en cuenta las siguientes premisas:
+Una empresa necesita almacenar información sobre sus **empleados** y **clientes**, teniendo en cuenta las siguientes premisas:
 
     • Ambos se caracterizan por su nombre y edad.
     • Los empleados tienen un sueldo bruto. 
